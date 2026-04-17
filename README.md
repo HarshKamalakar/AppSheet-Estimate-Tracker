@@ -1,10 +1,8 @@
 # ⚡ Utility Estimate Data Management & Dashboard Analytics App 
 
-![AppSheet Demo GIF] (<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/65874e1e-2503-42ca-92c4-44ac74d29f5d" />
-)
+![AppSheet Demo GIF] 
+(<img width="800" height="449" alt="EstimateAppV1 2-ezgif com-optimize" src="https://github.com/user-attachments/assets/638ccc08-41cb-4b64-91f1-cf552d0f7431" />)
 
-
-*(Note: Upload your 5-10 second GIF to your repo and link it above so it auto-plays when recruiters visit this page)*
 
 **[▶️ Click here to watch the Full Technical Walkthrough on YouTube](https://www.youtube.com/watch?v=PSWl4bl35bE)**
 
