@@ -1,9 +1,12 @@
 # ⚡ Utility Estimate Data Management & Dashboard Analytics App 
 
-![AppSheet Demo GIF]
+![AppSheet Demo GIF] (<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/65874e1e-2503-42ca-92c4-44ac74d29f5d" />
+)
+
+
 *(Note: Upload your 5-10 second GIF to your repo and link it above so it auto-plays when recruiters visit this page)*
 
-**[▶️ Click here to watch the Full Technical Walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)**
+**[▶️ Click here to watch the Full Technical Walkthrough on YouTube](https://www.youtube.com/watch?v=PSWl4bl35bE)**
 
 ---
 
@@ -70,6 +73,3 @@ To make this clean dataset actionable for decision-makers, I built two distinct 
 * <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36477529-7029-4300-be20-be0f1c0accf1" />
 * <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd773b92-b483-4128-97de-cdd685735846" />
 * <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/482324f2-2d4f-4c17-8ee8-c94f7bdae35f" />
-
-
-* Saved hours of manual data aggregation by providing management with real-time, self-service dashboard reports.
