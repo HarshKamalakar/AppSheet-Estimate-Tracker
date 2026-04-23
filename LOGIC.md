@@ -151,4 +151,12 @@ OR(
   IN([Status of estimate], {"Approved", "Returned", "Forwarded to Higher offices"}), 
   ISNOTBLANK([Action letter no.]) 
 )
+
 ```
+
+### 8. User Interface Views
+**Purpose:** Organizes the user interface for optimal navigation and data interaction.
+
+* **ListDashboard:** Configured as a *Primary Navigation* view. This view acts as the main dashboard, displaying a comprehensive list of estimates from the database for quick scanning and selection.
+* **ViewDashboard:** Configured as a *Reference* view. This view provides a detailed, granular look at an individual estimate's complete data profile when a specific record is selected from the main list.
+* ---
