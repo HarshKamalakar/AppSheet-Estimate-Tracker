@@ -159,4 +159,4 @@ OR(
 
 * **ListDashboard:** Configured as a *Primary Navigation* view. This view acts as the main dashboard, displaying a comprehensive list of estimates from the database for quick scanning and selection.
 * **ViewDashboard:** Configured as a *Reference* view. This view provides a detailed, granular look at an individual estimate's complete data profile when a specific record is selected from the main list.
-* ---
+---
